@@ -1,4 +1,4 @@
-# Redes Rurales Digitales
+# Redes Digitales Rurales
 
 Facultad de Agronomía y Veterinaria  
 Universidad Nacional de Río Cuarto 
